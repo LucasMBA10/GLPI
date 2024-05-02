@@ -2,7 +2,7 @@
 
 Este repositório destina-se ao estudo e prática do GLPI, um sistema de gerenciamento de serviços de TI e ativos, utilizando o MariaDB como banco de dados e Docker para facilitar a implantação.
 
-![Logo do GLPI](link_para_o_logo_do_glpi)
+![Logo do GLPI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3n8J1suBGeu6NR7nbNc3JPC63JeSqMhaQzOecFz8ukA&s)
 
 ## O que é o GLPI?
 
