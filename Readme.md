@@ -2,7 +2,7 @@
 
 Este repositório destina-se ao estudo e prática do GLPI, um sistema de gerenciamento de serviços de TI e ativos, utilizando o MariaDB como banco de dados e Docker para facilitar a implantação.
 
-![Logo do GLPI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3n8J1suBGeu6NR7nbNc3JPC63JeSqMhaQzOecFz8ukA&s)
+![Logo do GLPI](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d68fb3441984f65bb47553080870d100/glpi.png)
 
 ## O que é o GLPI?
 
@@ -30,31 +30,31 @@ Para executar este projeto, siga as etapas abaixo:
 1. Certifique-se de ter o Docker instalado em sua máquina.
 
 2. Clone este repositório em sua máquina local:
-
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
+```
+git clone https://github.com/LucasMBA10/GLPI
+```
 3. Navegue até o diretório clonado:
-
+```
 cd nome-do-repositorio
-
+```
 4. Execute o comando Docker Compose para construir e iniciar os contêineres:
-
+```
 docker-compose up -d
-
+```
 
 5. Aguarde até que todos os serviços estejam prontos. Isso pode levar alguns minutos na primeira execução.
 
 6. Acesse o GLPI em seu navegador web utilizando o seguinte endereço:
-
+```
 http://localhost:8080
-
+```
 
 ## Parando e Removendo os Contêineres
 
 Para parar e remover os contêineres, execute o seguinte comando na raiz do projeto:
-
+```
 docker-compose down
-
+```
 
 Isso irá parar e remover todos os contêineres criados para este projeto.
 
